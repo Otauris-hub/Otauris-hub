@@ -1,16 +1,46 @@
-## Hi there 👋
+# Otauris
 
-<!--
-**Otauris-hub/Otauris-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building next-generation Layer-1 infrastructure focused on:
 
-Here are some ideas to get you started:
+- Post-quantum security
+- Distributed systems
+- Protocol-level financial primitives
+- Identity-integrated blockchain architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core Areas
+
+- Consensus (CREA – Commit-Reveal PoS)
+- Networking & node infrastructure
+- Native assets and financial modules
+- Escrow and settlement systems
+- Post-quantum cryptography
+
+---
+
+## Open Roles
+
+We are actively looking for:
+
+- Core Protocol Engineers (Rust)
+- Cryptography & Security Engineers
+- Frontend / Web3 Engineers
+- Digital Designers
+
+Apply via GitHub Issues:
+👉 https://github.com/Otauris-hub/otauris-core/issues
+
+---
+
+## Philosophy
+
+Protocol-first design.
+
+Critical infrastructure belongs at the base layer — not fragmented across external contracts.
+
+---
+
+## Status
+
+Early-stage build. Core architecture and modules are being implemented.
